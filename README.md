@@ -4,11 +4,11 @@ This repository collects some research, code, and data I created while investiga
 
 ## Contents
 
-The extent of my research is documented in ThreeStronglyRegularGraphs.pdf; this is an unpublished and unfinished piece of research, and as such has gaps in citations and detail. An unofficial list of useful sources, as a base of a bibliography, is included in biblio.txt. In graphTheoryFunctions.py, I've collected the python code I've used to find, categorize and examine 3SRGs, as well as useful helper functions for working with graph data in text or exporting to LaTeX. In importantGraphs.txt I've collected all examples of nontrivial 3SRGs that I've found so far. 
+The extent of my research is documented in ThreeStronglyRegularGraphs.pdf; this is an unpublished and unfinished piece of research, and as such has gaps in citations and detail. An unofficial list of useful sources, as a base of a bibliography, is included in biblio.rtf. In graphTheoryFunctions.py, I've collected the python code I've used to find, categorize and examine 3SRGs, as well as useful helper functions for working with graph data in text or exporting to LaTeX. In importantGraphs.txt I've collected all examples of nontrivial 3SRGs that I've found so far. 
 
 ## Prerequisites
 
-Prerequisites of the work are an understanding of basic graph theory, some algebraic graph theory, and some of the theory of combinatorial designs. I've mentioned the key textbooks I used to learn these topics in biblio.txt.
+Prerequisites of the work are an understanding of basic graph theory, some algebraic graph theory, and some of the theory of combinatorial designs. I've mentioned the key textbooks I used to learn these topics in biblio.rtf.
 
 ## Acknowledgements
 
